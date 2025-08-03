@@ -1,5 +1,38 @@
 # Changelog
 
+## [1.188.1](https://github.com/MetaCubeX/metacubexd/compare/v1.188.0...v1.188.1) (2025-07-18)
+
+
+### Bug Fixes
+
+* add missing token for attaching GitHub release artifacts ([f1525f6](https://github.com/MetaCubeX/metacubexd/commit/f1525f67a565fd00202d8baae351abe67b36d085))
+
+## [1.188.0](https://github.com/MetaCubeX/metacubexd/compare/v1.187.1...v1.188.0) (2025-07-18)
+
+
+### Features
+
+* update CI token, trigger new release ([7c35df9](https://github.com/MetaCubeX/metacubexd/commit/7c35df9bb8ec2baf1fb41c5f16c74528b748048c))
+
+
+### Bug Fixes
+
+* active menu item ([#1523](https://github.com/MetaCubeX/metacubexd/issues/1523)) ([d4398f1](https://github.com/MetaCubeX/metacubexd/commit/d4398f16a54854c4e6169eec10357546208e9d16))
+
+## [1.187.1](https://github.com/MetaCubeX/metacubexd/compare/v1.187.0...v1.187.1) (2025-05-13)
+
+
+### Bug Fixes
+
+* closes [#1455](https://github.com/MetaCubeX/metacubexd/issues/1455) ([5a0b25d](https://github.com/MetaCubeX/metacubexd/commit/5a0b25d1c8b6deb713295aa5951b1e5cc5102351))
+
+## [1.187.0](https://github.com/MetaCubeX/metacubexd/compare/v1.186.1...v1.187.0) (2025-05-11)
+
+
+### Features
+
+* add new flow chart to overview page ([080560e](https://github.com/MetaCubeX/metacubexd/commit/080560e2a54121b27d66986413a9b0a66d33f1a8))
+
 ## [1.186.1](https://github.com/MetaCubeX/metacubexd/compare/v1.186.0...v1.186.1) (2025-03-15)
 
 
