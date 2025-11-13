@@ -1,5 +1,103 @@
 # Changelog
 
+## [1.199.0](https://github.com/MetaCubeX/metacubexd/compare/v1.198.0...v1.199.0) (2025-11-12)
+
+
+### Features
+
+* release ([ed4a1da](https://github.com/MetaCubeX/metacubexd/commit/ed4a1da1afc5d4e00a7186c5271326313b8036e0))
+
+## [1.198.0](https://github.com/MetaCubeX/metacubexd/compare/v1.197.0...v1.198.0) (2025-11-10)
+
+
+### Features
+
+* Responsive connections table for mobile with sort controls ([#1684](https://github.com/MetaCubeX/metacubexd/issues/1684)) ([8d97c5a](https://github.com/MetaCubeX/metacubexd/commit/8d97c5ad39362fddb5ec2f2153111a2e7eba998d))
+
+## [1.197.0](https://github.com/MetaCubeX/metacubexd/compare/v1.196.0...v1.197.0) (2025-11-09)
+
+
+### Features
+
+* update chart options and components to use ECharts ([#1681](https://github.com/MetaCubeX/metacubexd/issues/1681)) ([52fe0ed](https://github.com/MetaCubeX/metacubexd/commit/52fe0ed4d86aa1b8f6cd1a6e55d04a8868bc172c))
+
+## [1.196.0](https://github.com/MetaCubeX/metacubexd/compare/v1.195.0...v1.196.0) (2025-11-08)
+
+
+### Features
+
+* add Data Usage tracking table with real-time monitoring ([#1671](https://github.com/MetaCubeX/metacubexd/issues/1671)) ([0762d93](https://github.com/MetaCubeX/metacubexd/commit/0762d93d7d5551ac2851dbbc9807de8ba701f848))
+
+## [1.195.0](https://github.com/MetaCubeX/metacubexd/compare/v1.194.1...v1.195.0) (2025-10-28)
+
+
+### Features
+
+* release ([0dcaa83](https://github.com/MetaCubeX/metacubexd/commit/0dcaa838cd3bb2bd1a0192057f1cb33d2a6f5f64))
+
+## [1.194.1](https://github.com/MetaCubeX/metacubexd/compare/v1.194.0...v1.194.1) (2025-10-28)
+
+
+### Bug Fixes
+
+* virtual table render at bottom in Gecko engine based browser ([#1645](https://github.com/MetaCubeX/metacubexd/issues/1645)) ([62c9439](https://github.com/MetaCubeX/metacubexd/commit/62c9439a7b095a568f07d52707eef8cf002b0654))
+
+## [1.194.0](https://github.com/MetaCubeX/metacubexd/compare/v1.193.0...v1.194.0) (2025-09-22)
+
+
+### Features
+
+* connections table virtual scroll ([fa3d024](https://github.com/MetaCubeX/metacubexd/commit/fa3d024b16b9c0cbeb84d1f0b9117d6be8cb096d))
+
+## [1.193.0](https://github.com/MetaCubeX/metacubexd/compare/v1.192.0...v1.193.0) (2025-09-22)
+
+
+### Features
+
+* change mobile navbar to bottom nav ([#1610](https://github.com/MetaCubeX/metacubexd/issues/1610)) ([e111091](https://github.com/MetaCubeX/metacubexd/commit/e111091d37fae12a6c2d0f832d27016cbd29d085))
+
+## [1.192.0](https://github.com/MetaCubeX/metacubexd/compare/v1.191.0...v1.192.0) (2025-08-24)
+
+
+### Features
+
+* verify API endpoint with `/version` ([#1568](https://github.com/MetaCubeX/metacubexd/issues/1568)) ([#1569](https://github.com/MetaCubeX/metacubexd/issues/1569)) ([01e130b](https://github.com/MetaCubeX/metacubexd/commit/01e130bf2ac5708c28a0c01a9287bd53addb9a08))
+
+## [1.191.0](https://github.com/MetaCubeX/metacubexd/compare/v1.190.1...v1.191.0) (2025-08-22)
+
+
+### Features
+
+* format IPv6 and adjust style ([#1562](https://github.com/MetaCubeX/metacubexd/issues/1562)) ([0c52c30](https://github.com/MetaCubeX/metacubexd/commit/0c52c30efdd7240a86267592c5e691fa23484671))
+
+## [1.190.1](https://github.com/MetaCubeX/metacubexd/compare/v1.190.0...v1.190.1) (2025-08-15)
+
+
+### Bug Fixes
+
+* Twemoji does not work on iOS ([#1552](https://github.com/MetaCubeX/metacubexd/issues/1552)) ([c5eb4c0](https://github.com/MetaCubeX/metacubexd/commit/c5eb4c046f58cc81867af5cb0b56b82c80ab9543))
+
+## [1.190.0](https://github.com/MetaCubeX/metacubexd/compare/v1.189.1...v1.190.0) (2025-08-12)
+
+
+### Features
+
+* font switching feature and use the Twemoji font that only includes flags ([#1547](https://github.com/MetaCubeX/metacubexd/issues/1547)) ([aab2d5e](https://github.com/MetaCubeX/metacubexd/commit/aab2d5e620e36db5236b93544ae5be32b9cefbae))
+
+## [1.189.1](https://github.com/MetaCubeX/metacubexd/compare/v1.189.0...v1.189.1) (2025-08-08)
+
+
+### Bug Fixes
+
+* [#1504](https://github.com/MetaCubeX/metacubexd/issues/1504) [#1381](https://github.com/MetaCubeX/metacubexd/issues/1381) [#1428](https://github.com/MetaCubeX/metacubexd/issues/1428) ([#1540](https://github.com/MetaCubeX/metacubexd/issues/1540)) ([c40b139](https://github.com/MetaCubeX/metacubexd/commit/c40b139cda0ca546ddaa8509101c519377bf9529))
+
+## [1.189.0](https://github.com/MetaCubeX/metacubexd/compare/v1.188.1...v1.189.0) (2025-08-05)
+
+
+### Features
+
+* dns query supports more record types ([#1532](https://github.com/MetaCubeX/metacubexd/issues/1532)) ([4ec76c7](https://github.com/MetaCubeX/metacubexd/commit/4ec76c7be214d4f90a32af5e8af93ef73fe774d0))
+
 ## [1.188.1](https://github.com/MetaCubeX/metacubexd/compare/v1.188.0...v1.188.1) (2025-07-18)
 
 
